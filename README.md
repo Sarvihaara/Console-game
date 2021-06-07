@@ -1,1 +1,1 @@
-My projects
+Finished and in-progress projects
