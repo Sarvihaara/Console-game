@@ -11,9 +11,9 @@ selected brick, typing `o` + Enter will replace the brick the cursor is currentl
 
 Moving throughout the block and switching the bricks this way, the player aims to arrange matches of three bricks of same colour either horizontally or vertically. When three such bricks are so arranged, the match is eliminated and the bricks are removed from the block.
 
-The game is over when there are no possible matches left, at which point the player can start a new game.
+The game is over when there are no possible matches left, at which point the player can start a new game (`d` for a new game, `n` to quit the game). The player can quit the game at any time with `q` + Enter.
 
-As displayed in the demo, for faster gameplay it is possible to combine directions and `o` to move the cursor to desired positions, select the desired two bricks and switch them at the same time, all in one command.
+As displayed in the demo, for faster gameplay it is possible to combine directions and `o` to move the cursor to desired positions, select the desired two bricks and switch them at the same time, all in one command. For example, `ddowo` moves the cursor two bricks right, selects the first brick, moves the cursor one brick up, and selects the second brick, switching it with the brick below.
 
 # Demo
 
