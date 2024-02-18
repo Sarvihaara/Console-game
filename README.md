@@ -13,6 +13,8 @@ Moving and replacing the bricks this way, the player aims to arrange matches of 
 
 The game is over when there are no possible matches left, at which point the player can start a new game.
 
+As displayed in the demo, for faster gameplay it is possible to combine directions and `o` to move the cursor to desired positions, select the desired two bricks and switch them at the same time, all in one command.
+
 # Demo
 
 ![Demo](./demo.gif)
