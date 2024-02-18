@@ -1,4 +1,6 @@
-Console game in C++ inspired by Match3.
+Console game in C++ inspired by Match3. To try out the game, run `match.exe`.
+
+# Rules
 
 Each instance of the game randomly generates a block of bricks of different colours. The goal is to eliminate all possible matches.
 A match is any 3 bricks of the same colour, either in horizontal or vertical line.
