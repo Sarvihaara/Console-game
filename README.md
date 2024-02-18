@@ -17,6 +17,8 @@ The game is over when there are no possible matches left, at which point the pla
 
 As displayed in the demo, for faster gameplay it is possible to combine directions and `o` to move the cursor to desired positions, select the desired two bricks and switch them at the same time, all in one command. For example, `ddowo` moves the cursor two bricks right, selects the first brick, moves the cursor one brick up, and selects the second brick, switching it with the brick below.
 
+Thus, `oso` essentially moves the current brick one place down, `odoodo` two places to right etc., and these commands can be further combined with other direction commands.
+
 # Demo
 
 ![Demo](./demo.gif)
